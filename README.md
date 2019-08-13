@@ -5,7 +5,7 @@ the theme for night coder ⏰
 
 Developer: Seyad Hossein Razavi
 
-email: [hossein.r.1442@gmail.com](milto:hossein.r.1442@gmail.com)
+email: [hossein.r.1442@gmail.com](mailto:hossein.r.1442@gmail.com)
 
 why masih? MASIH is my son 👦
 
