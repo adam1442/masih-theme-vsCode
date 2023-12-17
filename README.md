@@ -3,7 +3,7 @@
 
 the theme for night coder ⏰
 
-Developer: Seyad Hossein Razavi
+Developer: Hossein Razavi
 
 email: [hossein.r.1442@gmail.com](mailto:hossein.r.1442@gmail.com)
 
